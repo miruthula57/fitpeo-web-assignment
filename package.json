@@ -1,8 +1,8 @@
 {
-  "homepage":"https://github.com/miruthula57/fitpeo-web-assignment/",
-  "name": "dashboard",
+  "name": "fitpeo-web-assignment",
   "version": "0.1.0",
   "private": true,
+  "homepage":"fitpeo-web-assignment",
   "dependencies": {
     "@emotion/react": "^11.13.0",
     "@emotion/styled": "^11.13.0",
